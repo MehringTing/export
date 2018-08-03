@@ -1,0 +1,1505 @@
+{
+    "code": 1,
+    "message": "请求成功",
+    "data": {
+        "stockStructure_generalCapital": {
+            "year_quarter": "2018-06-30",
+            "total": 81374.4432,
+            "stock_type": [
+                {
+                    "name": "A股",
+                    "num": 81374.4432
+                }
+            ]
+        },
+        "stockStructure_AStockCapital": {
+            "year_quarter": "2018-06-30",
+            "total": "81374.4432",
+            "stock_type": [
+                {
+                    "name": "流通A股",
+                    "num": "80438.1635"
+                },
+                {
+                    "name": "限售A股",
+                    "num": "936.2797"
+                }
+            ]
+        },
+        "stockStructure_topTenShareholder": [
+            {
+                "shareholder_name": "凯撒集团(香港)有限公司",
+                "stock_count": 25340.4797,
+                "stock_percent": "31.140"
+            },
+            {
+                "shareholder_name": "志凯有限公司",
+                "stock_count": 5982.2,
+                "stock_percent": "7.350"
+            },
+            {
+                "shareholder_name": "鹏华资产-工商银行-华润深国投信托-华润信托·凯撒增持1期集合资金信托计划",
+                "stock_count": 2290.6512,
+                "stock_percent": "2.810"
+            },
+            {
+                "shareholder_name": "张强",
+                "stock_count": 1963.6772,
+                "stock_percent": "2.410"
+            },
+            {
+                "shareholder_name": "何啸威",
+                "stock_count": 1732.103,
+                "stock_percent": "2.130"
+            },
+            {
+                "shareholder_name": "江汉锐",
+                "stock_count": 1589,
+                "stock_percent": "1.950"
+            },
+            {
+                "shareholder_name": "黄种溪",
+                "stock_count": 1404.594,
+                "stock_percent": "1.730"
+            },
+            {
+                "shareholder_name": "翟志伟",
+                "stock_count": 957.3056,
+                "stock_percent": "1.180"
+            },
+            {
+                "shareholder_name": "周路明",
+                "stock_count": 906.5344,
+                "stock_percent": "1.110"
+            },
+            {
+                "shareholder_name": "曾小俊",
+                "stock_count": 731.6017,
+                "stock_percent": "0.900"
+            }
+        ],
+        "stockStructure_topTenCirculateShareholder": [
+            {
+                "shareholder_name": "凯撒集团(香港)有限公司",
+                "stock_count": 24419.2,
+                "stock_percent": "30.008"
+            },
+            {
+                "shareholder_name": "志凯有限公司",
+                "stock_count": 5982.2,
+                "stock_percent": "7.351"
+            },
+            {
+                "shareholder_name": "鹏华资产-工商银行-华润深国投信托-华润信托·凯撒增持1期集合资金信托计划",
+                "stock_count": 2290.6512,
+                "stock_percent": "2.815"
+            },
+            {
+                "shareholder_name": "张强",
+                "stock_count": 1963.6772,
+                "stock_percent": "2.413"
+            },
+            {
+                "shareholder_name": "何啸威",
+                "stock_count": 1732.103,
+                "stock_percent": "2.129"
+            },
+            {
+                "shareholder_name": "江汉锐",
+                "stock_count": 1589,
+                "stock_percent": "1.953"
+            },
+            {
+                "shareholder_name": "黄种溪",
+                "stock_count": 1404.594,
+                "stock_percent": "1.726"
+            },
+            {
+                "shareholder_name": "翟志伟",
+                "stock_count": 957.3056,
+                "stock_percent": "1.176"
+            },
+            {
+                "shareholder_name": "周路明",
+                "stock_count": 906.5344,
+                "stock_percent": "1.114"
+            },
+            {
+                "shareholder_name": "曾小俊",
+                "stock_count": 731.6017,
+                "stock_percent": "0.899"
+            }
+        ],
+        "stockStructure_AStockCount": [
+            {
+                "year_quarter": "2018-06-30",
+                "total_share_capital": "81374.4432",
+                "a_shareholder": 2.87,
+                "average_share": 28388.08
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "total_share_capital": "81374.4432",
+                "a_shareholder": 2.47,
+                "average_share": 32899.83
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "total_share_capital": "81374.4432",
+                "a_shareholder": 2.41,
+                "average_share": 33754.12
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "total_share_capital": "81374.4432",
+                "a_shareholder": 2.49,
+                "average_share": 32651.65
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "total_share_capital": "81374.4432",
+                "a_shareholder": 2.41,
+                "average_share": 33831.31
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "total_share_capital": "50859.0270",
+                "a_shareholder": 2.35,
+                "average_share": 21617.3
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "total_share_capital": "50859.0270",
+                "a_shareholder": 1.22,
+                "average_share": 41633.13
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "total_share_capital": "50859.0270",
+                "a_shareholder": 1.35,
+                "average_share": 37810.59
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "total_share_capital": "50859.0270",
+                "a_shareholder": 1.33,
+                "average_share": 38205.4
+            }
+        ],
+        "mainComposition_industryStructure": [
+            {
+                "year_quarter": "2017-12-31",
+                "item": "服装业",
+                "num": "78230467.69"
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "item": "文化与娱乐业",
+                "num": "606343871.96"
+            }
+        ],
+        "performanceTrend_profitTrend": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 1.1738105114
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 0.584991791
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 2.4918241957
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": 1.4869353189
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": 0.9596164195
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": 0.382780395
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 1.3697005794
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 0.7774907086
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 0.377996316
+            }
+        ],
+        "performanceTrend_incomeTrend": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 2.9806791796,
+                "month_on_month": 105.03,
+                "last_month_is_null": 0,
+                "year_on_year": 5.46,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 1.4537671284,
+                "month_on_month": -79.35,
+                "last_month_is_null": 0,
+                "year_on_year": 10.83,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 7.0387169207,
+                "month_on_month": 53.29,
+                "last_month_is_null": 0,
+                "year_on_year": 35.38,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": 4.5918542056,
+                "month_on_month": 62.47,
+                "last_month_is_null": 0,
+                "year_on_year": 35.18,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": 2.8262360013,
+                "month_on_month": 115.47,
+                "last_month_is_null": 0,
+                "year_on_year": 29.14,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": 1.3116553732,
+                "month_on_month": -74.77,
+                "last_month_is_null": 0,
+                "year_on_year": 24.37,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 5.1993062386,
+                "month_on_month": 53.06,
+                "last_month_is_null": 0,
+                "year_on_year": -17.8,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 3.3969351867,
+                "month_on_month": 55.21,
+                "last_month_is_null": 0,
+                "year_on_year": -27.27,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 2.1885708286,
+                "month_on_month": 107.52,
+                "last_month_is_null": 0,
+                "year_on_year": -23.14,
+                "last_year_is_null": 0
+            }
+        ],
+        "performanceTrend_earningsTrend": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "0.140000"
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "0.070000"
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "0.310000"
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "0.186500"
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "0.120000"
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "0.076000"
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "0.320000"
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "0.190000"
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "0.100000"
+            }
+        ],
+        "accountingStatement_balanceSheet_netAssetsPerShare": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "4.6261",
+                "month_on_month": 1.51,
+                "last_month_is_null": 0,
+                "year_on_year": 7.66,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "4.5575",
+                "month_on_month": 1.56,
+                "last_month_is_null": 0,
+                "year_on_year": -33.06,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "4.4876",
+                "month_on_month": 2.88,
+                "last_month_is_null": 0,
+                "year_on_year": -33.35,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "4.3618",
+                "month_on_month": 1.51,
+                "last_month_is_null": 0,
+                "year_on_year": -34.06,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "4.2971",
+                "month_on_month": -36.88,
+                "last_month_is_null": 0,
+                "year_on_year": -34.67,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "6.8083",
+                "month_on_month": 1.11,
+                "last_month_is_null": 0,
+                "year_on_year": 48.45,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "6.7335",
+                "month_on_month": 1.79,
+                "last_month_is_null": 0,
+                "year_on_year": 47.68,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "6.6148",
+                "month_on_month": 0.57,
+                "last_month_is_null": 0,
+                "year_on_year": 48.66,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "6.5774",
+                "month_on_month": 43.41,
+                "last_month_is_null": 0,
+                "year_on_year": 49.19,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_balanceSheet_roe": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "3.113",
+                "month_on_month": 98.03,
+                "last_month_is_null": 0,
+                "year_on_year": 10.51,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "1.572",
+                "month_on_month": -77.45,
+                "last_month_is_null": 0,
+                "year_on_year": 41.62,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "6.971",
+                "month_on_month": 63.06,
+                "last_month_is_null": 0,
+                "year_on_year": 57,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "4.275",
+                "month_on_month": 51.76,
+                "last_month_is_null": 0,
+                "year_on_year": 62.12,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "2.817",
+                "month_on_month": 153.78,
+                "last_month_is_null": 0,
+                "year_on_year": 111.8,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "1.110",
+                "month_on_month": -75,
+                "last_month_is_null": 0,
+                "year_on_year": 86.87,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "4.440",
+                "month_on_month": 68.37,
+                "last_month_is_null": 0,
+                "year_on_year": 8.64,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "2.637",
+                "month_on_month": 98.27,
+                "last_month_is_null": 0,
+                "year_on_year": 57.25,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "1.330",
+                "month_on_month": 123.91,
+                "last_month_is_null": 0,
+                "year_on_year": 60.05,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_balanceSheet_totalAssets": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 46.116646856,
+                "month_on_month": 0.23,
+                "last_month_is_null": 0,
+                "year_on_year": 9.46,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 46.0093629878,
+                "month_on_month": 1.31,
+                "last_month_is_null": 0,
+                "year_on_year": 8.63,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 45.415818998,
+                "month_on_month": 2.16,
+                "last_month_is_null": 0,
+                "year_on_year": 7.91,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": 44.4563056141,
+                "month_on_month": 5.52,
+                "last_month_is_null": 0,
+                "year_on_year": 7.32,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": 42.1294576896,
+                "month_on_month": -0.53,
+                "last_month_is_null": 0,
+                "year_on_year": 1.54,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": 42.3524473057,
+                "month_on_month": 0.63,
+                "last_month_is_null": 0,
+                "year_on_year": 59.31,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 42.0875139373,
+                "month_on_month": 1.6,
+                "last_month_is_null": 0,
+                "year_on_year": 57.66,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 41.4248765439,
+                "month_on_month": -0.16,
+                "last_month_is_null": 0,
+                "year_on_year": 53.7,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 41.4924575856,
+                "month_on_month": 56.08,
+                "last_month_is_null": 0,
+                "year_on_year": 45.45,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_balanceSheet_totalLiabilities": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 8.4829254641,
+                "month_on_month": -5.05,
+                "last_month_is_null": 0,
+                "year_on_year": 24.16,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 8.9336425899,
+                "month_on_month": 0.26,
+                "last_month_is_null": 0,
+                "year_on_year": 21.17,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 8.9108604607,
+                "month_on_month": 3.16,
+                "last_month_is_null": 0,
+                "year_on_year": 19.03,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": 8.6380407209,
+                "month_on_month": 26.43,
+                "last_month_is_null": 0,
+                "year_on_year": 37.13,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": 6.8322372033,
+                "month_on_month": -7.33,
+                "last_month_is_null": 0,
+                "year_on_year": 4.72,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": 7.3727097936,
+                "month_on_month": -1.52,
+                "last_month_is_null": 0,
+                "year_on_year": 43.17,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 7.4862189155,
+                "month_on_month": 18.85,
+                "last_month_is_null": 0,
+                "year_on_year": 39.78,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 6.2990971865,
+                "month_on_month": -3.45,
+                "last_month_is_null": 0,
+                "year_on_year": 3.64,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 6.5240944536,
+                "month_on_month": 26.69,
+                "last_month_is_null": 0,
+                "year_on_year": -15.77,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_balanceSheet_shareholderEquity": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 37.6337213919,
+                "month_on_month": 1.51,
+                "last_month_is_null": 0,
+                "year_on_year": 6.62,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 37.0757203979,
+                "month_on_month": 1.56,
+                "last_month_is_null": 0,
+                "year_on_year": 5.99,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 36.5049585373,
+                "month_on_month": 1.92,
+                "last_month_is_null": 0,
+                "year_on_year": 5.5,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": 35.8182648932,
+                "month_on_month": 1.48,
+                "last_month_is_null": 0,
+                "year_on_year": 1.97,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": 35.2972204863,
+                "month_on_month": 0.91,
+                "last_month_is_null": 0,
+                "year_on_year": 0.94,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": 34.9797375121,
+                "month_on_month": 1.09,
+                "last_month_is_null": 0,
+                "year_on_year": 63.19,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 34.6012950218,
+                "month_on_month": -1.49,
+                "last_month_is_null": 0,
+                "year_on_year": 62.15,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 35.1257793574,
+                "month_on_month": 0.45,
+                "last_month_is_null": 0,
+                "year_on_year": 68.28,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 34.968363132,
+                "month_on_month": 63.14,
+                "last_month_is_null": 0,
+                "year_on_year": 68.27,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_incomeSheet_earningsPerShare": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "0.140000",
+                "month_on_month": 100,
+                "last_month_is_null": 0,
+                "year_on_year": 16.67,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "0.070000",
+                "month_on_month": -77.42,
+                "last_month_is_null": 0,
+                "year_on_year": -7.89,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "0.310000",
+                "month_on_month": 66.22,
+                "last_month_is_null": 0,
+                "year_on_year": -3.13,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "0.186500",
+                "month_on_month": 55.42,
+                "last_month_is_null": 0,
+                "year_on_year": -1.84,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "0.120000",
+                "month_on_month": 57.89,
+                "last_month_is_null": 0,
+                "year_on_year": 20,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "0.076000",
+                "month_on_month": -76.25,
+                "last_month_is_null": 0,
+                "year_on_year": 192.31,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "0.320000",
+                "month_on_month": 68.42,
+                "last_month_is_null": 0,
+                "year_on_year": 68.42,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "0.190000",
+                "month_on_month": 90,
+                "last_month_is_null": 0,
+                "year_on_year": 146.75,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "0.100000",
+                "month_on_month": 284.62,
+                "last_month_is_null": 0,
+                "year_on_year": 156.41,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_incomeSheet_operatingIncome": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 2.9806791796,
+                "month_on_month": 105.03,
+                "last_month_is_null": 0,
+                "year_on_year": 5.46,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 1.4537671284,
+                "month_on_month": -79.35,
+                "last_month_is_null": 0,
+                "year_on_year": 10.83,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 7.0387169207,
+                "month_on_month": 53.29,
+                "last_month_is_null": 0,
+                "year_on_year": 35.38,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": 4.5918542056,
+                "month_on_month": 62.47,
+                "last_month_is_null": 0,
+                "year_on_year": 35.18,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": 2.8262360013,
+                "month_on_month": 115.47,
+                "last_month_is_null": 0,
+                "year_on_year": 29.14,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": 1.3116553732,
+                "month_on_month": -74.77,
+                "last_month_is_null": 0,
+                "year_on_year": 24.37,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 5.1993062386,
+                "month_on_month": 53.06,
+                "last_month_is_null": 0,
+                "year_on_year": -17.8,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 3.3969351867,
+                "month_on_month": 55.21,
+                "last_month_is_null": 0,
+                "year_on_year": -27.27,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 2.1885708286,
+                "month_on_month": 107.52,
+                "last_month_is_null": 0,
+                "year_on_year": -23.14,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_incomeSheet_netProfit": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 1.1738105114,
+                "month_on_month": 100.65,
+                "last_month_is_null": 0,
+                "year_on_year": 22.32,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 0.584991791,
+                "month_on_month": -76.52,
+                "last_month_is_null": 0,
+                "year_on_year": 52.83,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 2.4918241957,
+                "month_on_month": 67.58,
+                "last_month_is_null": 0,
+                "year_on_year": 81.92,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": 1.4869353189,
+                "month_on_month": 54.95,
+                "last_month_is_null": 0,
+                "year_on_year": 91.25,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": 0.9596164195,
+                "month_on_month": 150.7,
+                "last_month_is_null": 0,
+                "year_on_year": 153.87,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": 0.382780395,
+                "month_on_month": -72.05,
+                "last_month_is_null": 0,
+                "year_on_year": 291.98,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 1.3697005794,
+                "month_on_month": 76.17,
+                "last_month_is_null": 0,
+                "year_on_year": 173.18,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 0.7774907086,
+                "month_on_month": 105.69,
+                "last_month_is_null": 0,
+                "year_on_year": 1060.38,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 0.377996316,
+                "month_on_month": 287.08,
+                "last_month_is_null": 0,
+                "year_on_year": 3056.55,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_incomeSheet_netProfitGrowthRate": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "18.942",
+                "month_on_month": -63.35,
+                "last_month_is_null": 0,
+                "year_on_year": -84.4,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "51.681",
+                "month_on_month": -23.34,
+                "last_month_is_null": 0,
+                "year_on_year": -77.02,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "67.420",
+                "month_on_month": -5.09,
+                "last_month_is_null": 0,
+                "year_on_year": -23.32,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "71.037",
+                "month_on_month": -41.5,
+                "last_month_is_null": 0,
+                "year_on_year": -59.13,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "121.424",
+                "month_on_month": -46,
+                "last_month_is_null": 0,
+                "year_on_year": -32.38,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "224.847",
+                "month_on_month": 155.74,
+                "last_month_is_null": 0,
+                "year_on_year": 265.93,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "87.921",
+                "month_on_month": -49.42,
+                "last_month_is_null": 0,
+                "year_on_year": -92.24,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "173.812",
+                "month_on_month": -3.2,
+                "last_month_is_null": 0,
+                "year_on_year": -48.8,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "179.557",
+                "month_on_month": 192.22,
+                "last_month_is_null": 0,
+                "year_on_year": 111.04,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_incomeSheet_dilutedEarningsPerShare": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "0.143990",
+                "month_on_month": 101,
+                "last_month_is_null": 0,
+                "year_on_year": 18.94,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "0.071637",
+                "month_on_month": -77.1,
+                "last_month_is_null": 0,
+                "year_on_year": -5.2,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "0.312840",
+                "month_on_month": 67.76,
+                "last_month_is_null": 0,
+                "year_on_year": 4.64,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "0.186478",
+                "month_on_month": 54.04,
+                "last_month_is_null": 0,
+                "year_on_year": 6.9,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "0.121059",
+                "month_on_month": 60.21,
+                "last_month_is_null": 0,
+                "year_on_year": 38.39,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "0.075565",
+                "month_on_month": -74.73,
+                "last_month_is_null": 0,
+                "year_on_year": 177.35,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "0.298975",
+                "month_on_month": 71.39,
+                "last_month_is_null": 0,
+                "year_on_year": 60.45,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "0.174445",
+                "month_on_month": 99.42,
+                "last_month_is_null": 0,
+                "year_on_year": 133.78,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "0.087476",
+                "month_on_month": 221.07,
+                "last_month_is_null": 0,
+                "year_on_year": 138.69,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_cashFlowStatement_cashFlowPerShare": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "-0.101",
+                "month_on_month": -32.89,
+                "last_month_is_null": 0,
+                "year_on_year": -14.77,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "-0.076",
+                "month_on_month": -233.33,
+                "last_month_is_null": 0,
+                "year_on_year": -2.7,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "0.057",
+                "month_on_month": 319.23,
+                "last_month_is_null": 0,
+                "year_on_year": -81,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "-0.026",
+                "month_on_month": 70.45,
+                "last_month_is_null": 0,
+                "year_on_year": -115.03,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "-0.088",
+                "month_on_month": -18.92,
+                "last_month_is_null": 0,
+                "year_on_year": -123.28,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "-0.074",
+                "month_on_month": -124.67,
+                "last_month_is_null": 0,
+                "year_on_year": -260.87,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "0.300",
+                "month_on_month": 73.41,
+                "last_month_is_null": 0,
+                "year_on_year": 169.93,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "0.173",
+                "month_on_month": -54.23,
+                "last_month_is_null": 0,
+                "year_on_year": 142.4,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "0.378",
+                "month_on_month": 721.74,
+                "last_month_is_null": 0,
+                "year_on_year": 12700,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_cashFlowStatement_operatingCashFlowPerShare": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": "0.089",
+                "month_on_month": 53.45,
+                "last_month_is_null": 0,
+                "year_on_year": 278,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": "0.058",
+                "month_on_month": -76.33,
+                "last_month_is_null": 0,
+                "year_on_year": 422.22,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": "0.245",
+                "month_on_month": 431.08,
+                "last_month_is_null": 0,
+                "year_on_year": -64.49,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": "-0.074",
+                "month_on_month": -48,
+                "last_month_is_null": 0,
+                "year_on_year": -118.23,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": "-0.050",
+                "month_on_month": -177.78,
+                "last_month_is_null": 0,
+                "year_on_year": -114.62,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": "-0.018",
+                "month_on_month": -102.61,
+                "last_month_is_null": 0,
+                "year_on_year": -112.95,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": "0.690",
+                "month_on_month": 69.95,
+                "last_month_is_null": 0,
+                "year_on_year": 385.92,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": "0.406",
+                "month_on_month": 18.71,
+                "last_month_is_null": 0,
+                "year_on_year": 315.96,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": "0.342",
+                "month_on_month": 146.04,
+                "last_month_is_null": 0,
+                "year_on_year": 254.05,
+                "last_year_is_null": 0
+            }
+        ],
+        "accountingStatement_cashFlowStatement_netCashFlowFromOperations": [
+            {
+                "year_quarter": "2018-06-30",
+                "num": 0.7241624842,
+                "month_on_month": 53.97,
+                "last_month_is_null": 0,
+                "year_on_year": 278.62,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "num": 0.4703187866,
+                "month_on_month": -76.41,
+                "last_month_is_null": 0,
+                "year_on_year": 625.61,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "num": 1.9938404546,
+                "month_on_month": 432.33,
+                "last_month_is_null": 0,
+                "year_on_year": -43.18,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "num": -0.5999549558,
+                "month_on_month": -47.99,
+                "last_month_is_null": 0,
+                "year_on_year": -129.06,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "num": -0.4054135706,
+                "month_on_month": -353.07,
+                "last_month_is_null": 0,
+                "year_on_year": -123.29,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "num": -0.0894809286,
+                "month_on_month": -102.55,
+                "last_month_is_null": 0,
+                "year_on_year": -114.84,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "num": 3.5089234212,
+                "month_on_month": 69.97,
+                "last_month_is_null": 0,
+                "year_on_year": 467.31,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "num": 2.0644228899,
+                "month_on_month": 18.6,
+                "last_month_is_null": 0,
+                "year_on_year": 353.5,
+                "last_year_is_null": 0
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "num": 1.7406743441,
+                "month_on_month": 188.7,
+                "last_month_is_null": 0,
+                "year_on_year": 280.27,
+                "last_year_is_null": 0
+            }
+        ],
+        "industryContrast": [
+            {
+                "name": "营业收入",
+                "own": 2.98,
+                "average": 5.83,
+                "unit": "亿元"
+            },
+            {
+                "name": "净利润",
+                "own": 1.17,
+                "average": 2.31,
+                "unit": "亿元"
+            },
+            {
+                "name": "每股收益",
+                "own": 0.14,
+                "average": 0.09,
+                "unit": "元"
+            },
+            {
+                "name": "每股净资产",
+                "own": 4.63,
+                "average": 3.59,
+                "unit": "元"
+            },
+            {
+                "name": "净资产收益率",
+                "own": 3.11,
+                "average": 2.61,
+                "unit": "%"
+            }
+        ],
+        "dividendFinancing_bonusSituation": [
+            {
+                "director_date": "2018-04-24",
+                "plan_date": "2018-05-17",
+                "implement_date": "2018-06-21",
+                "scheme": "10派1元(含税)",
+                "dividend": 0.81
+            },
+            {
+                "director_date": "2017-04-27",
+                "plan_date": "2017-05-19",
+                "implement_date": "2017-05-25",
+                "scheme": "10转增6股派0.5元（含税）",
+                "dividend": 0.25
+            },
+            {
+                "director_date": "2016-08-25",
+                "plan_date": "2016-09-13",
+                "implement_date": "2016-09-27",
+                "scheme": "10派0.5元(含税)",
+                "dividend": 0.25
+            },
+            {
+                "director_date": "2015-03-17",
+                "plan_date": "2015-04-09",
+                "implement_date": "2015-05-13",
+                "scheme": "10派0.2元(含税)",
+                "dividend": 0.08
+            },
+            {
+                "director_date": "2014-02-28",
+                "plan_date": "2014-03-22",
+                "implement_date": "2014-05-08",
+                "scheme": "10派0.3元(含税)",
+                "dividend": 0.12
+            },
+            {
+                "director_date": "2013-02-28",
+                "plan_date": "2013-03-22",
+                "implement_date": "2013-03-26",
+                "scheme": "10送2转增1股派0.6元(含税)",
+                "dividend": 0.13
+            },
+            {
+                "director_date": "2012-03-29",
+                "plan_date": "2012-04-20",
+                "implement_date": "2012-05-25",
+                "scheme": "10派0.5元(含税)",
+                "dividend": 0.11
+            },
+            {
+                "director_date": "2011-02-28",
+                "plan_date": "2011-03-22",
+                "implement_date": "2011-03-24",
+                "scheme": "10转增10股派1.5元(含税)",
+                "dividend": 0.16
+            }
+        ],
+        "dividendFinancing_additionalSituation": [
+            {
+                "year": "2016-06-13",
+                "price": 16,
+                "total_circulation": 4556.25,
+                "net_amount": 7.29
+            },
+            {
+                "year": "2016-05-09",
+                "price": 21.57,
+                "total_circulation": 2879,
+                "net_amount": 5.91
+            },
+            {
+                "year": "2015-04-27",
+                "price": 10.17,
+                "total_circulation": 4424.78,
+                "net_amount": 4.5
+            },
+            {
+                "year": "2013-08-22",
+                "price": 4.83,
+                "total_circulation": 11179,
+                "net_amount": 5.2
+            }
+        ],
+        "dividendFinancing_stockDistribution": [],
+        "salesGrossProfit": [
+            {
+                "year_quarter": "2018-06-30",
+                "is_financial": 0,
+                "gross_profit_margin": 59.35,
+                "basic_earnings_per_share": "0.143990",
+                "net_assets_rate": "3.1700",
+                "p_e_ratio": 32.99
+            },
+            {
+                "year_quarter": "2018-03-31",
+                "is_financial": 0,
+                "gross_profit_margin": 56.63,
+                "basic_earnings_per_share": "0.071637",
+                "net_assets_rate": "1.5800",
+                "p_e_ratio": 107.21
+            },
+            {
+                "year_quarter": "2017-12-31",
+                "is_financial": 0,
+                "gross_profit_margin": 66.57,
+                "basic_earnings_per_share": "0.312840",
+                "net_assets_rate": "7.2000",
+                "p_e_ratio": 23.05
+            },
+            {
+                "year_quarter": "2017-09-30",
+                "is_financial": 0,
+                "gross_profit_margin": 67,
+                "basic_earnings_per_share": "0.186478",
+                "net_assets_rate": "4.3500",
+                "p_e_ratio": 50.84
+            },
+            {
+                "year_quarter": "2017-06-30",
+                "is_financial": 0,
+                "gross_profit_margin": 68.49,
+                "basic_earnings_per_share": "0.121059",
+                "net_assets_rate": "2.8400",
+                "p_e_ratio": 75.5
+            },
+            {
+                "year_quarter": "2017-03-31",
+                "is_financial": 0,
+                "gross_profit_margin": 64.71,
+                "basic_earnings_per_share": "0.075565",
+                "net_assets_rate": "1.1200",
+                "p_e_ratio": 244.56
+            },
+            {
+                "year_quarter": "2016-12-31",
+                "is_financial": 0,
+                "gross_profit_margin": 69.15,
+                "basic_earnings_per_share": "0.298975",
+                "net_assets_rate": "5.3000",
+                "p_e_ratio": 76.09
+            },
+            {
+                "year_quarter": "2016-09-30",
+                "is_financial": 0,
+                "gross_profit_margin": 68.12,
+                "basic_earnings_per_share": "0.174445",
+                "net_assets_rate": "4.3100",
+                "p_e_ratio": 138.61
+            },
+            {
+                "year_quarter": "2016-06-30",
+                "is_financial": 0,
+                "gross_profit_margin": 59.99,
+                "basic_earnings_per_share": "0.087476",
+                "net_assets_rate": "1.3200",
+                "p_e_ratio": 251.5
+            }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+.idea
+
+composer.lock
+
+*.log
+
+thinkphp
+.env
+hello.docx
+runtime

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.css">
+    </style>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container-fuild">
+        <div class="row">
+            <div class="col-md-1">
+                <ul>
+                    <li><a href="">营业总收入</a></li>
+                </ul>
+            </div>
+            <div class="col-md-11">
+                <h3>营业总收入</h3>
+                <table class="table table-striped" id="yyzsr">
+                    <thead>
+                        <tr>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: "{:url('Index/yyzsr')}",
+                type: 'get',
+                dataType: 'json',
+                success: function (data) {
+                    if (data.code) {
+                        var head = data.data[0]
+                        var html_head = ''
+                        var html_body = ''
+                        for (i = 0; i < head.length; i++) {
+                            html_head += '<th>' + head[i] + '</th>'
+                        }
+                        for (r = 0; r < data.data.length; r++) {
+                            if (r == 0) {
+                                continue
+                            }
+                            html_body += '<tr>'
+                            var row = data.data[r]
+                            for (c = 0; c < row.length; c++) {
+                                html_body += '<td>' + row[c] + '</td>'
+                            }
+                            html_body += '</tr>'
+                        }
+                        $('#yyzsr thead tr').append(html_head);
+                        $('#yyzsr tbody').append(html_body);
+                    } else {
+                        console.log('no data')
+                    }
+                }
+            })
+        })
+    </script>
+</body>
+
+</html>
